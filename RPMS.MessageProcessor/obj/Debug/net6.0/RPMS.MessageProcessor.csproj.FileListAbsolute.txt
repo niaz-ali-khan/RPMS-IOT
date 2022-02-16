@@ -1,0 +1,80 @@
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\RPMS.MessageProcessor.exe
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\RPMS.MessageProcessor.deps.json
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\RPMS.MessageProcessor.runtimeconfig.json
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\RPMS.MessageProcessor.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\ref\RPMS.MessageProcessor.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\RPMS.MessageProcessor.pdb
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Azure.Messaging.EventHubs.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Azure.Messaging.EventHubs.Processor.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.Azure.EventHubs.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.Azure.EventHubs.Processor.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.Azure.Storage.Blob.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.Azure.Storage.Common.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\RPMS.Common.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\RPMS.Common.pdb
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.csproj.AssemblyReference.cache
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.AssemblyInfoInputs.cache
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.AssemblyInfo.cs
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.csproj.CopyComplete
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\ref\RPMS.MessageProcessor.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.pdb
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.genruntimeconfig.cache
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\RPMS.MessageProcessor.exe
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\RPMS.MessageProcessor.deps.json
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\RPMS.MessageProcessor.runtimeconfig.json
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\RPMS.MessageProcessor.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\ref\RPMS.MessageProcessor.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\RPMS.MessageProcessor.pdb
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Azure.Core.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Azure.Core.Amqp.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Azure.Messaging.EventHubs.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Azure.Messaging.EventHubs.Processor.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Azure.Storage.Common.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.Azure.EventHubs.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.Azure.EventHubs.Processor.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.Azure.KeyVault.Core.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.Azure.Storage.Blob.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.Azure.Storage.Common.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\RPMS.Common.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\bin\Debug\net6.0\RPMS.Common.pdb
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.csproj.AssemblyReference.cache
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.AssemblyInfoInputs.cache
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.AssemblyInfo.cs
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.csproj.CoreCompileInputs.cache
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.csproj.CopyComplete
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\ref\RPMS.MessageProcessor.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.pdb
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.MessageProcessor\obj\Debug\net6.0\RPMS.MessageProcessor.genruntimeconfig.cache

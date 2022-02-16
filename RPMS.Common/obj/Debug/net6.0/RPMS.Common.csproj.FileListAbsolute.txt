@@ -1,0 +1,24 @@
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.Common\bin\Debug\net6.0\RPMS.Common.deps.json
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.Common\bin\Debug\net6.0\RPMS.Common.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.Common\bin\Debug\net6.0\ref\RPMS.Common.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.Common\bin\Debug\net6.0\RPMS.Common.pdb
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.Common\obj\Debug\net6.0\RPMS.Common.csproj.AssemblyReference.cache
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.Common\obj\Debug\net6.0\RPMS.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.Common\obj\Debug\net6.0\RPMS.Common.AssemblyInfoInputs.cache
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.Common\obj\Debug\net6.0\RPMS.Common.AssemblyInfo.cs
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.Common\obj\Debug\net6.0\RPMS.Common.csproj.CoreCompileInputs.cache
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.Common\obj\Debug\net6.0\RPMS.Common.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.Common\obj\Debug\net6.0\ref\RPMS.Common.dll
+C:\Users\Niyaaz Khan\source\repos\RPMS\RPMS.Common\obj\Debug\net6.0\RPMS.Common.pdb
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.Common\bin\Debug\net6.0\RPMS.Common.deps.json
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.Common\bin\Debug\net6.0\RPMS.Common.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.Common\bin\Debug\net6.0\ref\RPMS.Common.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.Common\bin\Debug\net6.0\RPMS.Common.pdb
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.Common\obj\Debug\net6.0\RPMS.Common.csproj.AssemblyReference.cache
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.Common\obj\Debug\net6.0\RPMS.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.Common\obj\Debug\net6.0\RPMS.Common.AssemblyInfoInputs.cache
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.Common\obj\Debug\net6.0\RPMS.Common.AssemblyInfo.cs
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.Common\obj\Debug\net6.0\RPMS.Common.csproj.CoreCompileInputs.cache
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.Common\obj\Debug\net6.0\RPMS.Common.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.Common\obj\Debug\net6.0\ref\RPMS.Common.dll
+E:\Visual Studio Backup\RPMS\RPMS\RPMS.Common\obj\Debug\net6.0\RPMS.Common.pdb
